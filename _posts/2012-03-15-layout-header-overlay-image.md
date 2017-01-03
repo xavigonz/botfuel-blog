@@ -1,17 +1,18 @@
 ---
-title: "Layout: Header Image Overlay"
-header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_url: "https://unsplash.com"
+title: 'Layout: Header Image Overlay'
+date: 2012-03-15 00:00:00 -04:00
 categories:
-  - Layout
-  - Uncategorized
+- Layout
+- Uncategorized
 tags:
-  - edge case
-  - image
-  - layout
-modified: 2016-11-03T11:45:09-04:00
+- edge case
+- image
+- layout
+header:
+  overlay_image: "/assets/images/unsplash-image-1.jpg"
+  caption: 'Photo credit: [**Unsplash**](https://unsplash.com)'
+  cta_url: https://unsplash.com
+modified: 2016-11-03 11:45:09 -04:00
 ---
 
 This post should display a **header with an overlay image**, if the theme supports it.

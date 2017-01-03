@@ -1,10 +1,11 @@
 ---
-title: "Post: Image (Linked with Caption)"
+title: 'Post: Image (Linked with Caption)'
+date: 2010-08-06 00:00:00 -04:00
 categories:
-  - Post Formats
+- Post Formats
 tags:
-  - image
-  - Post Formats
+- image
+- Post Formats
 ---
 
 {% capture fig_img %}

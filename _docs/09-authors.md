@@ -1,8 +1,8 @@
 ---
-title: "Authors"
-permalink: /docs/authors/
-excerpt: "Instructions and settings for working with multiple site authors."
-modified: 2016-11-03T10:55:15-04:00
+title: Authors
+permalink: "/docs/authors/"
+excerpt: Instructions and settings for working with multiple site authors.
+modified: 2016-11-03 10:55:15 -04:00
 ---
 
 Sites that may have content authored from various individuals can be accommodated by using [data files](https://jekyllrb.com/docs/datafiles/).

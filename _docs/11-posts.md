@@ -1,8 +1,8 @@
 ---
-title: "Working with Posts"
-permalink: /docs/posts/
-excerpt: "Suggestions and Front Matter defaults for working with posts."
-modified: 2016-11-03T11:12:40-04:00
+title: Working with Posts
+permalink: "/docs/posts/"
+excerpt: Suggestions and Front Matter defaults for working with posts.
+modified: 2016-11-03 11:12:40 -04:00
 ---
 
 Posts are stored in the `_posts` directory and named according to the `YEAR-MONTH-DAY-title.MARKUP` format as per [the usual](https://jekyllrb.com/docs/posts/).

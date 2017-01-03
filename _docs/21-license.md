@@ -1,8 +1,8 @@
 ---
-title: "License"
-permalink: /docs/license/
-excerpt: "License for Minimal Mistakes Jekyll Theme."
-modified: 2016-04-13T15:05:12-04:00
+title: License
+permalink: "/docs/license/"
+excerpt: License for Minimal Mistakes Jekyll Theme.
+modified: 2016-04-13 15:05:12 -04:00
 ---
 
 The MIT License (MIT)

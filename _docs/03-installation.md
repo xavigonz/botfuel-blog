@@ -1,8 +1,8 @@
 ---
-title: "Installation"
-permalink: /docs/installation/
-excerpt: "Instructions for installing the theme for new and existing Jekyll based sites."
-modified: 2016-11-03T10:13:32-04:00
+title: Installation
+permalink: "/docs/installation/"
+excerpt: Instructions for installing the theme for new and existing Jekyll based sites.
+modified: 2016-11-03 10:13:32 -04:00
 ---
 
 ## Install the Theme

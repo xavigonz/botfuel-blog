@@ -1,10 +1,10 @@
 ---
-title: "History"
-permalink: /docs/history/
-excerpt: "Change log of enhancements and bug fixes made to the theme."
+title: History
+permalink: "/docs/history/"
+excerpt: Change log of enhancements and bug fixes made to the theme.
 sidebar:
   nav: docs
-modified: 2016-12-21T23:04:51-05:00
+modified: 2016-12-21 23:04:51 -05:00
 ---
 
 ## [4.1.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.1.1)

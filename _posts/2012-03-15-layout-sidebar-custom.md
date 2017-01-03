@@ -1,14 +1,15 @@
 ---
-title: "Layout: Sidebar Custom"
-excerpt: "A post with custom sidebar content."
+title: 'Layout: Sidebar Custom'
+date: 2012-03-15 00:00:00 -04:00
+excerpt: A post with custom sidebar content.
 author_profile: false
 sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+- title: Title
+  image: http://placehold.it/350x250
+  image_alt: image
+  text: Some text here.
+- title: Another Title
+  text: More text here.
 ---
 
 This post has a custom sidebar set in the post's YAML Front Matter.

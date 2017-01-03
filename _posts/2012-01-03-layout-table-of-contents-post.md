@@ -1,10 +1,11 @@
 ---
-title: "Layout: Post with Table Of Contents"
+title: 'Layout: Post with Table Of Contents'
+date: 2012-01-03 00:00:00 -05:00
+tags:
+- table of contents
 header:
   image: assets/images/unsplash-image-9.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-tags:
-  - table of contents
+  caption: 'Photo credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 {% include toc title="Unique Title" icon="file-text" %}

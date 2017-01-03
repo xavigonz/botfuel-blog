@@ -1,13 +1,14 @@
 ---
-title: "Layouts"
-permalink: /docs/layouts/
-excerpt: "Descriptions and samples of all layouts included with the theme and how to best use them."
+title: Layouts
+permalink: "/docs/layouts/"
+excerpt: Descriptions and samples of all layouts included with the theme and how to
+  best use them.
 single_layout_gallery:
-  - image_path: /assets/images/mm-layout-single-header.png
-    alt: "single layout with header example"
-  - image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-modified: 2016-12-12T15:20:20-05:00
+- image_path: "/assets/images/mm-layout-single-header.png"
+  alt: single layout with header example
+- image_path: "/assets/images/mm-layout-single-meta.png"
+  alt: single layout with comments and related posts
+modified: 2016-12-12 15:20:20 -05:00
 ---
 
 {% include toc icon="columns" title="Included Layouts" %}

@@ -1,8 +1,8 @@
 ---
-title: "Utility Classes"
-permalink: /docs/utility-classes/
-excerpt: "CSS classes for aligning text/image, styling buttons and notices, and more."
-modified: 2016-11-03T11:32:25-04:00
+title: Utility Classes
+permalink: "/docs/utility-classes/"
+excerpt: CSS classes for aligning text/image, styling buttons and notices, and more.
+modified: 2016-11-03 11:32:25 -04:00
 ---
 
 {% include toc icon="gears" title="Utility Classes" %}

@@ -1,15 +1,16 @@
 ---
-title: "Markup: HTML Tags and Formatting"
-header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+title: 'Markup: HTML Tags and Formatting'
+date: 2013-01-11 00:00:00 -05:00
 categories:
-  - Markup
+- Markup
 tags:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
+- content
+- css
+- formatting
+- html
+- markup
+header:
+  teaser: assets/images/markup-syntax-highlighting-teaser.jpg
 ---
 
 A variety of common markup showing how the theme styles them.

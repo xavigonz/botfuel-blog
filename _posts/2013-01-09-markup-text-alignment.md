@@ -1,12 +1,13 @@
 ---
-title: "Markup: Text Alignment"
+title: 'Markup: Text Alignment'
+date: 2013-01-09 00:00:00 -05:00
 categories:
-  - Markup
+- Markup
 tags:
-  - alignment
-  - content
-  - css
-  - markup
+- alignment
+- content
+- css
+- markup
 ---
 
 ### Default

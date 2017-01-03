@@ -1,10 +1,11 @@
 ---
-title:  "Gemified Theme -- Beta Release"
-modified: 2016-11-03T11:45:04-04:00
-categories: 
-  - Jekyll
+title: Gemified Theme -- Beta Release
+date: 2016-10-06 00:00:00 -04:00
+categories:
+- Jekyll
 tags:
-  - update
+- update
+modified: 2016-11-03 11:45:04 -04:00
 ---
 
 Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes... as a gemified theme.
